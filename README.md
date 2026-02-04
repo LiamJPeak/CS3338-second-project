@@ -1,0 +1,1 @@
+This repo is meant to teach you how to use merging, cloning, forking, and push requests on Github and Git.
